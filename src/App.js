@@ -7,13 +7,7 @@ import MovieCard from './MovieCard';
 
 const API_URL = 'http://www.omdbapi.com?apikey=7da6b64d';
 
-const movie = {
-  "Title": "American Psycho",
-  "Year": "2000",
-  "imdbID": "tt0144084",
-  "Type": "movie",
-  "Poster": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg"
-}
+
 
 const App = () => {
 
