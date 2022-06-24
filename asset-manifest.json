@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jegflix-react/static/css/main.32434ee2.css",
+    "main.js": "/jegflix-react/static/js/main.b9d51d7b.js",
+    "index.html": "/jegflix-react/index.html",
+    "static/media/search.svg": "/jegflix-react/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.32434ee2.css.map": "/jegflix-react/static/css/main.32434ee2.css.map",
+    "main.b9d51d7b.js.map": "/jegflix-react/static/js/main.b9d51d7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32434ee2.css",
+    "static/js/main.b9d51d7b.js"
+  ]
+}
